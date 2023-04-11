@@ -1,3 +1,5 @@
+//Javascript Assignment 2
+
 //Q1 : Write a function that creates a closure and returns a function that can add
 //a specific number to any number passed to it. For example, if the closure is
 //reate
